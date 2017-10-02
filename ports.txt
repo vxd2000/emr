@@ -1,0 +1,8 @@
+GatewayService - 8080
+AuthorizationService - 8765
+AggregateService - 8448
+ClientService - 8444
+UserService - 8446
+DiscoveryService - 8761
+HystrixDashboard - 9000
+ConfigService - 8500
